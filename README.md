@@ -20,3 +20,39 @@ The database schema consists of several interconnected tables that capture diffe
 
 
 ## ER model
+
+![ER_bank](https://github.com/Abhishektarpara/Bank-Database-Management/assets/121369602/66e77edf-192a-42dd-acff-8f370c657b3e)
+
+
+Total 13 tables are created..
+
+## Queries
+1. Retrieve all customer details (first name, last name, email) who have a savings account with an account balance greater than 5000.
+2. Get the total number of active accounts in the database.
+3. List the customers who made a transaction of more than 1000 on a specific date.
+4. Find the account numbers with the highest and lowest current balances.
+5. Get the customer details who have a fixed deposit with a maturity date within the next 30 days.
+6. Retrieve the details of customers who have a credit card with an outstanding balance greater than 500.
+7. Get the total number of transactions of each transaction type.
+8. List the customers who have accounts in multiple banks.
+9. Find the average account balance for each account type.
+10. Retrieve the customer details along with their branch information.
+11. Retrieve the total balance for each customer along with their account type, sorted in descending order of the total balance.
+12. Get the customer details who have the highest account balance for each account type.
+13. Retrieve the customers who have made transactions with a specific bank, along with the total amount of transactions made by each customer.
+14. Get the customer details who have not made any transactions.
+15. Retrieve the customer details along with their account type, showing "Active" if the account status is 'Active' and "Inactive" otherwise.
+16. Retrieve the customers who have at least two active accounts of different types.
+17. Get the customers who have made transactions exceeding the average transaction amount, along with the total transaction count for each customer.
+18. Retrieve the customers who have a loan amount greater than the average loan amount of all customers, along with the maximum loan amount.
+19. Get the customers who have the same last name and display the total balance across all their accounts.
+20. Retrieve the customers who have made a cash withdrawal transaction within the last 30 days, along with the count of such transactions.
+21. Get the count of transactions for each day in a specific month.
+
+## Conclusion
+Aim of this mini project was to understand DBMS in practical to create tables and insert items and perform various operations on it.
+
+
+
+
+
